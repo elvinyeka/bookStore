@@ -1,0 +1,82 @@
+[
+  {
+    "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "bookAuthor": "Robert C. Martin",
+    "bookAmount": 8,
+    "bookPage": 327,
+    "bookGenre": "Programming",
+    "bookNumber": 4
+  },
+  {
+    "bookName": "Introduction to Algorithms",
+    "bookAuthor": "Thomas H. Cormen, Charles E. Leiserson",
+    "bookAmount": 3,
+    "bookPage": 184,
+    "bookGenre": "Programming",
+    "bookNumber": 12
+  },
+  {
+    "bookName": "Structure and Interpretation of Computer Programs (SICP)",
+    "bookAuthor": "Harold Abelson, Gerald Jay Sussman",
+    "bookAmount": 2,
+    "bookPage": 159,
+    "bookGenre": "Programming",
+    "bookNumber": 4
+  },
+  {
+    "bookName": "The Clean Coder: A Code of Conduct for Professional Programmers",
+    "bookAuthor": "Robert C. Martin",
+    "bookAmount": 19,
+    "bookPage": 471,
+    "bookGenre": "Programming",
+    "bookNumber": 1
+  },
+  {
+    "bookName": "Code Complete: A Practical Handbook of Software Construction",
+    "bookAuthor": "Steve McConnell",
+    "bookAmount": 7,
+    "bookPage": 243,
+    "bookGenre": "Programming",
+    "bookNumber": 3
+  },
+  {
+    "bookName": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "bookAuthor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch",
+    "bookAmount": 5,
+    "bookPage": 324,
+    "bookGenre": "Programming",
+    "bookNumber": 4
+  },
+  {
+    "bookName": "The Pragmatic Programmer",
+    "bookAuthor": "Andrew Hunt, David Thomas",
+    "bookAmount": 32,
+    "bookPage": 486,
+    "bookGenre": "Programming",
+    "bookNumber": 2
+  },
+  {
+    "bookName": "Head First Design Patterns: A Brain-Friendly Guide",
+    "bookAuthor": "Eric Freeman, Bert Bates, Kathy Sierra",
+    "bookAmount": 4,
+    "bookPage": 207,
+    "bookGenre": "Programming",
+    "bookNumber": 6
+  },
+  {
+    "bookName": "Refactoring: Improving the Design of Existing Code",
+    "bookAuthor": "Martin Fowler",
+    "bookAmount": 4,
+    "bookPage": 187,
+    "bookGenre": "Programming",
+    "bookNumber": 8
+  },
+  {
+    "bookName": "The Art of Computer Programming, Volumes 1-4",
+    "bookAuthor": "Donald E. Knuth",
+    "bookAmount": 19,
+    "bookPage": 514,
+    "bookGenre": "Programming",
+    "bookNumber": 6
+  }
+]
