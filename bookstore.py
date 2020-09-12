@@ -7,7 +7,7 @@ bookList = []
 
 
 while True:
-    print(f"{i}-ci kitabın məlumatlarını daxil edin: ")
+    print(f"--------------------------------{i}-ci kitabın məlumatlarını daxil edin-----------------------------")
     i += 1
     _bookID = int(input("Kitabin sıra nömrəsini daxil edin: "))
     _bookName = input("Kitabın Adı: ")
